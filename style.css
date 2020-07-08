@@ -1,0 +1,54 @@
+.container-fluid{
+    background-color: #D4E3A7;
+}
+.nav-item{
+    font-size: 20px;
+    
+}
+
+.navbar-collapse a:hover{
+    background-color: #7FB185;
+}
+.sign{
+    background-image: linear-gradient(#7FB185,#D4E3A7);
+    border-radius: 10%;
+}
+.box{
+   width: 200px;
+   height: 150px;
+   background-color: #53645C;
+   
+}
+.box2{
+    width: 200px;
+    height: 150px;
+    background-color: #ffff;
+    box-shadow: 15px 15px 20px grey;
+ }
+box,box2,h1{
+    font-size: 20px;
+}
+.course{
+    text-align: center;
+}
+.course:hover{
+    transform: scale(1.6);
+    color: green;
+}
+.final_section h3{
+    font-size: 28px;
+    color: white;
+}
+.final_section{
+    padding: 10px;
+    background-color: black;
+}
+ul li {
+   list-style: none;
+   font-size: 22px;
+   text-align: justify;
+
+}
+.copy_right{
+    text-align: center;
+}
